@@ -9,14 +9,14 @@ With the use of our resources, we will use the employee data to help the manager
     - Total of 90,398 staff members are to retire.
 
 (As seen in this Analysis: 
-![This is an image](https://github.com/sadayas/Election_Analysis/blob/main/Resources/mentornum.png) )
+![This is an image](https://github.com/sadayas/Pewlett-Hackard-Analysis/blob/main/Images/retirementcount.png?raw=true) )
 
 2. There may not be enough mentors to help the newer staff force.
 3. Development and Research departments will have issues as more enginners are set to retire.
 
 4. Only 1549 Staff members are eligible for training.
 	(As seen in this CVS File: 
-![This is an image](https://github.com/sadayas/Election_Analysis/blob/main/Resources/mentornum.png) )
+![This is an image](https://github.com/sadayas/Pewlett-Hackard-Analysis/blob/main/Images/mentornum.png?raw=true) )
 
 
 ## Summary
